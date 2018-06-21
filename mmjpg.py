@@ -25,4 +25,4 @@ for imgUrl in imgList:
      urllib.request.urlretrieve(imgUrl,'E:/pythonSpiderFile/img/%s.jpg'%imgUrl[-38:-34])  
    
  
-    
+ 
