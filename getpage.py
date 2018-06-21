@@ -23,4 +23,4 @@ for imgUrl in imgList:  # 列表循环
     urllib.request.urlretrieve(imgUrl,'D:/pyimgs/%d.jpg'%x)  
     x+=1
  
-    
+ 
